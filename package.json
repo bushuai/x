@@ -1,0 +1,25 @@
+{
+  "name": "x",
+  "version": "1.0.0",
+  "description": "x",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bushuai/x.git"
+  },
+  "keywords": [
+    "x"
+  ],
+  "author": "bushuai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bushuai/x/issues"
+  },
+  "homepage": "https://github.com/bushuai/x#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
